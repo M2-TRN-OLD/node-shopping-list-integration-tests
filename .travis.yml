@@ -5,6 +5,6 @@ deploy:
   edge: true
   api_key:
     secure: Y38Lo+v08wku9ayqJODqzy4asJKfj/VvA2GTqiMseU3oaZtP2IJUpT+oZWxCXGOrzFh/+5qWDw0kHlnCyjcdPMkaOP/j5d5tsMVWRqeeCfLyr9lrqxeEPsA8IiwMn9re6YMm+MLAvWhCN4PqR4qNcRcG2WdEEEtUQ4DzVSAX1MR1UvsecT3OmCSxnbDSyqBCjNHNFx86f13ontUvZoYOpjWohV5o7l2xCisKhpEyKT9IhavpOjSuqoDNcx67LDBr/XTHaZVuae5/bt0EaGjjiL2g1moB01DORKvXGhIpwXhJTxjSqff4xWG378/98/8Nmw/FUOla7oXyRhq+IRIdpb5OBMrq3E+oVO8065YW8JVj9AF22g2S+WIsPJs2MH4lgXROVURR6/fPPp7DnS0iiW5PKKJ16roU+eTex+Kan12x2tQXpc9N5lP3j64WSu34fsHseuYJKHcEPOYvFu7FrnA1I624Q9Q/DSDNM23/ZnDaiVt1WWGe2ozZgSGDSqoibfJz0++8kVdOKt1hUkfQTNhW8kH0ucNnRdC2LY6PmcupWJTMQO4HoyNMAJG5zvnqlOPTvQ0arsfdKEcksL3xHSjSIPBLcf3ie06L99ChHffJj9AjUE/8uGHs95cuv1GbLY9qm9duaxPVVxh3t4XlfUQPYbuAFgecU9Gcgrd68rw=
-  app: ⬢ serene-castle-60034
+  app: serene-castle-60034
   on:
     repo: MissyM2/node-shopping-list-integration-tests
